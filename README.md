@@ -14,3 +14,6 @@ There are number of goals to achieve here:
 - Enable the Protractor Control Flow
 
 Follow any appropriate design patterns.
+
+# To submit your test
+Either fork this repo and share the link, or submit commits to a branch.
